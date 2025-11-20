@@ -1,0 +1,20 @@
+[
+  {
+    "id": 3,
+    "title": "New Devotional Song",
+    "lyrics": "Jay Dev, Jay Dev...",
+    "language": "marathi",
+    "category": "devotional",
+    "imageUrl": "https://username.github.io/lyrics-app-data/images/devotional.png",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 4,
+    "title": "Romantic Melody",
+    "lyrics": "You are my heartbeat...",
+    "language": "english",
+    "category": "romantic",
+    "imageUrl": "https://username.github.io/lyrics-app-data/images/romantic.png",
+    "updatedAt": "2025-11-21"
+  }
+]
