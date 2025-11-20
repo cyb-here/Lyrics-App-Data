@@ -1,20 +1,50 @@
 [
   {
     "id": 3,
-    "title": "New Devotional Song",
-    "lyrics": "Jay Dev, Jay Dev...",
+    "title": "Jay Dev Jay Dev (Aarti)",
+    "lyrics": "जय देव जय देव श्रीमंगेशा । पंचारति ओवाळू सदया सर्वेशा ॥\nसदया सगुणा शंभो अजिनांबरधारी । गौरीरमणा आद्या मदनांतकारी ॥\nत्रिपुरारी अधहारी शिवमस्तकधारी । विश्वंभर विरुदे हैं नम संकट धारी ॥",
     "language": "marathi",
     "category": "devotional",
-    "imageUrl": "https://username.github.io/lyrics-app-data/images/devotional.png",
     "updatedAt": "2025-11-21"
   },
   {
     "id": 4,
-    "title": "Romantic Melody",
-    "lyrics": "You are my heartbeat...",
+    "title": "You Are My Heartbeat",
+    "lyrics": "You are my heartbeat, life within me;\nYou are my refuge when trouble comes.\nCloser than breathing, holding and healing,\nPatiently kneeling and calling me on.\nYou are the Way and I will follow,\nYou are the Truth, I will believe,\nYou are the Life, my soul rejoices,\nForever with you I will be.",
     "language": "english",
     "category": "romantic",
-    "imageUrl": "https://username.github.io/lyrics-app-data/images/romantic.png",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 5,
+    "title": "Marathi Folk Song (Gadi Chalali Ghungarachi)",
+    "lyrics": "गाडी चालली घुंगराची, गाडी चालली घुंगराची ।\nगाडी चालली घुंगराची, गाडी चालली घुंगराची ।\nघुंगरू वाजती नादाची, गाडी चालली घुंगराची ॥",
+    "language": "marathi",
+    "category": "folk",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 6,
+    "title": "Vande Mataram",
+    "lyrics": "वन्दे मातरम्।\nसुजलां सुफलां मलयजशीतलाम्\nशस्यशामलां मातरम्।\nवन्दे मातरम्।\nशुभ्रज्योत्स्ना पुलकितयामिनीम्\nफुल्लकुसुमित द्रुमदलशोभिनीम्\nसुहासिनीं सुमधुर भाषिणीम्\nसुखदां वरदां मातरम्॥",
+    "language": "hindi",
+    "category": "patriotic",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 7,
+    "title": "Raag Yaman Bandish",
+    "lyrics": "अरी एरी आली पिया बिन\nमोरे नैनन में आँसू भर आए\nसंगीत में रचले मन\nसा रे गा मा पा धा नि सा\nसा नि धा पा मा गा रे सा",
+    "language": "marathi",
+    "category": "classic",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 8,
+    "title": "Dance to the Rhythm",
+    "lyrics": "Feel the beat, let it take control,\nMove your feet, let the rhythm flow.\nHands in the air, the night's alive,\nLose yourself, let the music thrive.\nSpin around, let the world fade away,\nEvery move, it's your time to play.\nHeartbeat racing, lights are aglow,\nFeel the magic, let it grow.",
+    "language": "english",
+    "category": "pop",
     "updatedAt": "2025-11-21"
   }
 ]
