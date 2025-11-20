@@ -46,5 +46,105 @@
     "language": "english",
     "category": "pop",
     "updatedAt": "2025-11-21"
-  }
-]
+  },
+  {
+    "id": 9,
+    "title": "Ganpati Bappa Morya",
+    "lyrics": "गणपती बाप्पा मोरया, पुढच्या वर्षी लवकर या\nमंगलमुर्ती मोरया, सुखकर्ता दुःखहर्ता\nविघ्नहर्ता गणराजा, भक्तांचे संकट हरतो\nगणपती बाप्पा मोरया!",
+    "language": "marathi",
+    "category": "devotional",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 10,
+    "title": "Tum Hi Ho",
+    "lyrics": "तुम ही हो, तुम ही हो\nज़िंदगी अब तुम ही हो\nचैन भी, मेरा दर्द भी\nमेरी आशिकी अब तुम ही हो",
+    "language": "hindi",
+    "category": "romantic",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 11,
+    "title": "Zingaat",
+    "lyrics": "आताचं बायकोचं नाव सांगितलं तर\nझिंग झिंग झिंग झिंग झिंगाट\nडान्स करायला लाज वाटत नाही\nझिंग झिंग झिंग झिंग झिंगाट",
+    "language": "marathi",
+    "category": "folk",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 12,
+    "title": "Maa Tujhe Salaam",
+    "lyrics": "माँ तुझे सलाम\nवतन मेरा इंडिया\nमाँ तुझे सलाम\nतेरी मिट्टी में मिल जावाँ\nगुल बनके मैं खिल जावाँ",
+    "language": "hindi",
+    "category": "patriotic",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 13,
+    "title": "Shree Ram Jai Ram",
+    "lyrics": "श्रीराम जय राम जय जय राम\nश्रीराम जय राम जय जय राम\nभक्तजन वंदित राम\nश्रीराम जय राम जय जय राम",
+    "language": "marathi",
+    "category": "devotional",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 14,
+    "title": "Pehla Nasha",
+    "lyrics": "पहला नशा, पहला खुमार\nनया प्यार है, नया इंतज़ार\nकर लूँ मैं क्या अपना हाल\nऐ दिल-ए-बेकरार",
+    "language": "hindi",
+    "category": "romantic",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 15,
+    "title": "Lavani Song",
+    "lyrics": "संगीताची लय भारी\nनाचते गावकरी सारी\nढोल ताशांचा नाद\nलावणीचा रंग खास",
+    "language": "marathi",
+    "category": "folk",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 16,
+    "title": "Ae Mere Watan Ke Logon",
+    "lyrics": "ऐ मेरे वतन के लोगों\nज़रा आँख में भर लो पानी\nजो शहीद हुए हैं उनकी\nज़रा याद करो क़ुर्बानी",
+    "language": "hindi",
+    "category": "patriotic",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 17,
+    "title": "Raag Bhairav Bandish",
+    "lyrics": "प्रभु मोरे अवगुन चित न धरो\nसा रे गा मा पा धा नि सा\nसा नि धा पा मा गा रे सा",
+    "language": "marathi",
+    "category": "classic",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 18,
+    "title": "Shape of You",
+    "lyrics": "I'm in love with the shape of you\nWe push and pull like a magnet do\nAlthough my heart is falling too\nI'm in love with your body",
+    "language": "english",
+    "category": "pop",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 19,
+    "title": "Vitthal Vitthal",
+    "lyrics": "विठ्ठल विठ्ठल विठ्ठल\nपांडुरंग विठ्ठल\nभक्तजनांचा आधार\nविठ्ठल विठ्ठल",
+    "language": "marathi",
+    "category": "devotional",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 20,
+    "title": "Tera Hone Laga Hoon",
+    "lyrics": "तेरा होने लगा हूँ\nखोया हूँ मैं कहीं\nतेरा होने लगा हूँ\nखोया हूँ मैं कहीं",
+    "language": "hindi",
+    "category": "romantic",
+    "updatedAt": "2025-11-20"
+  },
+  {
+    "id": 21,
+    "title": "Jogwa Song",
+    "lyrics": "जोगवा मागतो आई\nजोगवा मागतो आई\nभक्तीचा रंग चढतो\nजोगवा मागतो आई",
+    "language": "marathi",
