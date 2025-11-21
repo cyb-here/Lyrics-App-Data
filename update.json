@@ -148,3 +148,95 @@
     "title": "Jogwa Song",
     "lyrics": "जोगवा मागतो आई\nजोगवा मागतो आई\nभक्तीचा रंग चढतो\nजोगवा मागतो आई",
     "language": "marathi",
+    "category": "folk",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 22,
+    "title": "Jana Gana Mana",
+    "lyrics": "जन गण मन अधिनायक जय हे\nभारत भाग्य विधाता\nपंजाब सिंध गुजरात मराठा\nद्राविड उत्कल बंग",
+    "language": "hindi",
+    "category": "patriotic",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 23,
+    "title": "Har Har Mahadev",
+    "lyrics": "हर हर महादेव\nशिव शंकर भोलेनाथ\nभक्तजनांचा आधार\nहर हर महादेव",
+    "language": "marathi",
+    "category": "devotional",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 24,
+    "title": "Kal Ho Naa Ho",
+    "lyrics": "हर घड़ी बदल रही है रूप ज़िंदगी\nछाँव है कभी, धूप ज़िंदगी\nहर पल यहाँ जी भर जियो\nजो है समा, कल हो ना हो",
+    "language": "hindi",
+    "category": "romantic",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 25,
+    "title": "Pinga",
+    "lyrics": "पिंग्या पिंग्या पिंग्या\nनाचते गावकरी सारी\nढोल ताशांचा नाद\nपिंग्या रंग खास",
+    "language": "marathi",
+    "category": "folk",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 26,
+    "title": "Sare Jahan Se Achha",
+    "lyrics": "सारे जहाँ से अच्छा\nहिंदोस्ताँ हमारा\nहम बुलबुलें हैं इसकी\nयह गुलिस्ताँ हमारा",
+    "language": "hindi",
+    "category": "patriotic",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 27,
+    "title": "Raag Kafi Bandish",
+    "lyrics": "मन मोहन मन मोहन\nसा रे गा मा पा धा नि सा\nसा नि धा पा मा गा रे सा",
+    "language": "marathi",
+    "category": "classic",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 28,
+    "title": "Blinding Lights",
+    "lyrics": "I said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch",
+    "language": "english",
+    "category": "pop",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 29,
+    "title": "Vitthal Namachi Gaani",
+    "lyrics": "विठ्ठल नामाची गाणी\nभक्तजनांचा आधार\nपांडुरंग विठ्ठल\nविठ्ठल विठ्ठल",
+    "language": "marathi",
+    "category": "devotional",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 30,
+    "title": "Chura Liya Hai Tumne",
+    "lyrics": "चुरा लिया है तुमने जो दिल को\nनज़र नहीं चुराना सनम\nबदले मेरी दुनिया सारी\nतुमने, तुमने",
+    "language": "hindi",
+    "category": "romantic",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 31,
+    "title": "Koli Geet",
+    "lyrics": "समुद्राच्या लाटांवर\nकोळी गातात गाणी\nनौका चालते पुढे\nकोळी गातात गाणी",
+    "language": "marathi",
+    "category": "folk",
+    "updatedAt": "2025-11-21"
+  },
+  {
+    "id": 32,
+    "title": "Desh Rangeela",
+    "lyrics": "देश रंगीला रंगीला\nभारत रंगीला\nदेश रंगीला रंगीला\nभारत रंगीला",
+    "language": "hindi",
+    "category": "patriotic",
+    "updatedAt": "2025-11-21"
+  }
+]
